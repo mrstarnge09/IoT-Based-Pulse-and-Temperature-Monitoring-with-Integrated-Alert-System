@@ -6,10 +6,10 @@ char ssid[] = "YOUR_WIFI_SSID";           // Your WiFi Network Name
 char password[] = "YOUR_WIFI_PASSWORD";   // Your WiFi Password
 
 // Your ThingSpeak Channel ID (provided)
-unsigned long myChannelNumber = 3118506; 
+unsigned long myChannelNumber = shanti; 
 
 // Your provided Write API Key (for Field 1: BPM, Field 2: Temp)
-const char * myWriteAPIKey = "6P3NK9TNLYV7JMNH"; 
+const char * myWriteAPIKey = "om"; 
 
 // -----------------------------------------------------------------------
 //  PIN DEFINITIONS & LIBRARIES
