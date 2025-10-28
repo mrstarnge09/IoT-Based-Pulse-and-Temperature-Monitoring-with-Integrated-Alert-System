@@ -23,7 +23,7 @@ This project monitors a person's pulse rate and body temperature using IoT senso
 - SAHIL ZEESHAN – 20231BCD0104  
 
 ### Guide
-Ms. Sandhya L,  
+ Akshatha G R ,  
 School of Information Science (SOIS),  
 Presidency University.
 
